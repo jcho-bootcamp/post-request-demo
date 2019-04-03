@@ -1,0 +1,23 @@
+{
+  "name": "post-request",
+  "version": "1.0.0",
+  "description": "post request demo exercise",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcho0627/post-request-demo.git"
+  },
+  "author": "June Hyok Cho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jcho0627/post-request-demo/issues"
+  },
+  "homepage": "https://github.com/jcho0627/post-request-demo#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4"
+  }
+}
